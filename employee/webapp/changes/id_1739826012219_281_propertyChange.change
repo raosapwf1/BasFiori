@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1739826012219_281_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "employee.employee",
+    "packageName": "",
+    "content": {
+        "property": "growingThreshold",
+        "newValue": 2
+    },
+    "selector": {
+        "id": "employee.employee::sap.suite.ui.generic.template.ListReport.view.ListReport::employee--responsiveTable",
+        "idIsLocal": false,
+        "type": "sap.m.Table"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/employee.employee/changes/",
+    "projectId": "",
+    "creation": 1739826012219,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": " ",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
